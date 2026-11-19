@@ -1,34 +1,24 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="curl endpoint-ai.vercel.app/api/digvijay returns: name Digvijay Chavda, Frontend Engineer at ZURU Tech, building Endpoint, MCP servers and AI agents, based in Ahmedabad, open to frontend and AI engineering roles">
-</picture>
+<a href="https://digvijay-chavda.vercel.app/">
+  <img src="assets/hero.svg" width="100%" alt="Digvijay Chavda, Software Engineer at ZURU Tech. React, TypeScript and Next.js by day, AI developer tools after dark.">
+</a>
 
-I build frontends for a living and AI developer tools on the side. At ZURU Tech I've spent the last few years on a real-time messaging app, an account and sign-in system, and a GIS tool for building-code compliance. That's mostly React, TypeScript, WebSockets and a lot of time in the profiler.
+<p align="center">
+  <a href="https://digvijay-chavda.vercel.app/"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio"></a>
+  <a href="https://digvijay-chavda.vercel.app/assets/Digvijay_Chavda_Resume.pdf"><img src="assets/btn-resume.svg" height="40" alt="Resume"></a>
+  <a href="https://www.linkedin.com/in/digvijaychavda"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+  <a href="mailto:digvijay.chavda.dev@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
+</p>
 
-Find me on [LinkedIn](https://www.linkedin.com/in/digvijaychavda) or at [digvijay.chavda.dev@gmail.com](mailto:digvijay.chavda.dev@gmail.com).
+I've spent the last few years at ZURU Tech building frontends for a real-time messaging app, an account and sign-in system, and a GIS tool for building-code compliance. Most days that means React, TypeScript, WebSockets and a lot of time in the profiler. In the evenings I build developer tools on top of LLMs.
 
-## Endpoint
+<a href="https://endpoint-ai.vercel.app">
+  <img src="assets/endpoint.svg" width="100%" alt="Now showing: Endpoint. You describe the data, Gemini drafts JSON, Endpoint validates and caches it, and you call a live API.">
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/endpoint-dark.svg">
-  <img src="assets/endpoint-light.svg" width="100%" alt="Endpoint flow: you describe the data, Gemini drafts JSON, Endpoint validates and caches it, you call a live API">
-</picture>
+<p align="center"><a href="https://endpoint-ai.vercel.app">Try Endpoint live</a> &nbsp;|&nbsp; <a href="https://github.com/Digvijay-Chavda/endpoint-ai">Read the source</a></p>
 
-A mock API platform for frontend developers who are blocked on a backend that doesn't exist yet. You write one sentence and get a real endpoint you can fetch from your app.
+<img src="assets/coming-soon.svg" width="100%" alt="Coming soon: MockPilot, an AI interview coach, and an Endpoint MCP server for AI agents.">
 
-[Try it live](https://endpoint-ai.vercel.app) or [read the code](https://github.com/Digvijay-Chavda/endpoint-ai). Built with Next.js, TypeScript, PostgreSQL, Prisma and the Gemini API.
+<img src="assets/cast.svg" width="100%" alt="Stack: React, Next.js, TypeScript, JavaScript, Tailwind, shadcn/ui, TanStack Query, Zustand, WebSockets, Node.js, PostgreSQL, Prisma, Gemini, Claude, MCP, LangGraph, Python, Git, GitLab, Jest, Vitest, Figma, Vercel">
 
-## Building next
-
-**Endpoint MCP server.** Lets Claude and other agents create and inspect mock APIs directly, so an agent writing frontend code can also stand up the API it needs.
-
-**MockPilot.** An interview practice tool where one model plays the interviewer and a second one grades the answers against a fixed rubric, so the feedback stays consistent.
-
-## How I work
-
-| Every day | Comfortable with | Learning now |
-|---|---|---|
-| React, TypeScript, Next.js | Tailwind, shadcn/ui, Redux Toolkit | Model Context Protocol |
-| Zustand, TanStack Query | PostgreSQL, Prisma, REST | LangGraph |
-| WebSockets, real-time UI | Jest, Vitest, GitLab CI/CD | Python |
-| Performance and TS migrations | Gemini API, Claude Code | Agent evaluation |
+<p align="center"><sub>Open to frontend and AI engineering roles. The full story is on my <a href="https://digvijay-chavda.vercel.app/">portfolio</a>.</sub></p>
